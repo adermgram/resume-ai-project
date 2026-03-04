@@ -1,0 +1,225 @@
+resume_text,category
+"Python developer with experience in Django, Flask, REST APIs, Git, and SQL databases.",Software Engineer
+"Java software engineer skilled in Spring Boot, microservices, and cloud deployment.",Software Engineer
+"C++ developer with experience in system design and performance optimization.",Software Engineer
+"Backend engineer with Node.js, Express, MongoDB, and API development skills.",Software Engineer
+"Frontend developer skilled in React, HTML, CSS, and JavaScript frameworks.",Web Developer
+"Web developer with experience in responsive design, Bootstrap, and RESTful services.",Web Developer
+"Full stack developer experienced in MERN stack and deployment using Docker.",Web Developer
+"UI designer skilled in Figma, Adobe XD, wireframing, and usability testing.",UI/UX Designer
+"UX researcher experienced in user studies, prototyping, and accessibility standards.",UI/UX Designer
+"Graphic designer with experience in branding, typography, and layout design.",UI/UX Designer
+"Data scientist skilled in Python, pandas, NumPy, machine learning, and statistics.",Data Scientist
+"Machine learning engineer experienced in TensorFlow, PyTorch, NLP, and deep learning.",Data Scientist
+"Data analyst experienced in SQL, Excel, Power BI, and data visualization.",Data Scientist
+"Business analyst skilled in requirement gathering, stakeholder communication, and reporting.",Business Analyst
+"Business analyst experienced in data analysis, process improvement, and documentation.",Business Analyst
+"Project manager skilled in Agile, Scrum, Jira, and project planning.",Project Manager
+"Project coordinator experienced in scheduling, risk management, and team leadership.",Project Manager
+"Certified public accountant with experience in auditing, taxation, and financial reporting.",Accountant
+"Finance professional skilled in budgeting, accounting software, and compliance.",Accountant
+"Accounts manager experienced in payroll, bookkeeping, and reconciliation.",Accountant
+"Digital marketing specialist skilled in SEO, SEM, Google Analytics, and campaigns.",Marketing
+"Content marketer experienced in branding, advertising, and social media marketing.",Marketing
+"Marketing analyst skilled in customer insights and campaign optimization.",Marketing
+"Human resource manager experienced in recruitment, payroll, and employee relations.",HR
+"HR executive skilled in onboarding, training, and compliance.",HR
+"Talent acquisition specialist experienced in interviewing and hiring strategies.",HR
+"Network engineer skilled in routing, switching, firewalls, and TCP/IP protocols.",Network Engineer
+"System administrator experienced in Linux servers, virtualization, and backups.",Network Engineer
+"IT support engineer skilled in troubleshooting hardware and network issues.",Network Engineer
+"Cybersecurity analyst experienced in threat detection, vulnerability assessment, and SIEM tools.",Cybersecurity Analyst
+"Information security specialist skilled in penetration testing and security audits.",Cybersecurity Analyst
+"Security engineer experienced in firewall configuration and incident response.",Cybersecurity Analyst
+"Experienced Python developer proficient in web scraping, automation scripts, and libraries like BeautifulSoup and Selenium.",Software Engineer
+"Senior Java engineer with expertise in enterprise applications, Hibernate ORM, and AWS cloud services.",Software Engineer
+"C++ programmer specialized in game development, Unreal Engine, and multithreading optimization.",Software Engineer
+"Node.js backend developer skilled in real-time applications, Socket.io, and Redis caching.",Software Engineer
+"React frontend engineer with experience in state management using Redux, and responsive UI design.",Web Developer
+"Full-stack web developer proficient in PHP, Laravel framework, and MySQL database management.",Web Developer
+"Angular developer experienced in single-page applications, RxJS, and integration with REST APIs.",Web Developer
+"UI/UX designer with skills in prototyping using Sketch, user flow mapping, and A/B testing.",UI/UX Designer
+"Experienced UX specialist focused on mobile app design, accessibility compliance, and user interviews.",UI/UX Designer
+"Graphic designer proficient in Adobe Illustrator, vector graphics, and print media layouts.",UI/UX Designer
+"Data scientist with expertise in R programming, statistical modeling, and predictive analytics.",Data Scientist
+"Machine learning expert skilled in computer vision, OpenCV, and neural network architectures.",Data Scientist
+"Data analyst proficient in Tableau, data cleaning with Python, and KPI dashboard creation.",Data Scientist
+"Business analyst with experience in UML diagramming, requirements elicitation, and stakeholder workshops.",Business Analyst
+"Senior business analyst skilled in process mapping, gap analysis, and ERP system implementations.",Business Analyst
+"Agile project manager experienced in Kanban boards, sprint planning, and risk assessment.",Project Manager
+"Project lead with skills in Microsoft Project, resource allocation, and vendor management.",Project Manager
+"Certified accountant proficient in QuickBooks, tax preparation, and financial forecasting.",Accountant
+"Finance analyst experienced in cost accounting, variance analysis, and GAAP compliance.",Accountant
+"Accounts payable specialist skilled in invoice processing, reconciliation, and ERP software.",Accountant
+"SEO specialist with experience in keyword research, on-page optimization, and link building.",Marketing
+"Social media marketer proficient in content calendars, influencer partnerships, and analytics tools like Hootsuite.",Marketing
+"Marketing strategist skilled in market segmentation, campaign ROI analysis, and email marketing.",Marketing
+"HR generalist experienced in performance appraisals, employee engagement surveys, and labor law compliance.",HR
+"Recruitment specialist with skills in applicant tracking systems, behavioral interviewing, and diversity hiring.",HR
+"HR coordinator proficient in benefits administration, onboarding processes, and conflict resolution.",HR
+"Network administrator skilled in Cisco routers, VLAN configuration, and network monitoring tools.",Network Engineer
+"Systems engineer experienced in Windows Server, Active Directory, and virtualization with VMware.",Network Engineer
+"IT technician proficient in hardware repairs, software installations, and end-user support.",Network Engineer
+"Cybersecurity expert with skills in ethical hacking, IDS/IPS systems, and compliance audits.",Cybersecurity Analyst
+"Security analyst experienced in risk assessments, encryption protocols, and forensic investigations.",Cybersecurity Analyst
+"Information security engineer skilled in secure coding practices, vulnerability scanning, and SOC operations.",Cybersecurity Analyst
+"Python backend developer with Django REST framework, PostgreSQL, and CI/CD pipelines using Jenkins.",Software Engineer
+"Java full-stack engineer proficient in Spring Security, JPA, and frontend integration with Angular.",Software Engineer
+"C# developer experienced in .NET Core, ASP.NET MVC, and Entity Framework for database operations.",Software Engineer
+"GoLang engineer skilled in concurrent programming, microservices architecture, and Kubernetes deployment.",Software Engineer
+"Vue.js frontend developer with experience in Vuex state management, and progressive web apps.",Web Developer
+"Ruby on Rails developer proficient in API development, ActiveRecord, and Heroku deployment.",Web Developer
+"WordPress developer experienced in custom themes, plugins, and WooCommerce e-commerce setup.",Web Developer
+"Interaction designer skilled in Adobe After Effects, motion graphics, and user-centered design principles.",UI/UX Designer
+"Product designer with expertise in user personas, journey mapping, and high-fidelity prototypes.",UI/UX Designer
+"Illustrator proficient in digital art, character design, and tools like Procreate and CorelDRAW.",UI/UX Designer
+"Big data scientist experienced in Hadoop, Spark, and data pipelines with Apache Kafka.",Data Scientist
+"AI engineer skilled in reinforcement learning, Gym environments, and model deployment on AWS SageMaker.",Data Scientist
+"Business intelligence analyst proficient in SQL queries, ETL processes, and Looker dashboards.",Data Scientist
+"Requirements analyst experienced in user stories, use case development, and agile methodologies.",Business Analyst
+"Process analyst skilled in BPMN modeling, workflow optimization, and Six Sigma principles.",Business Analyst
+"Program manager with experience in portfolio management, budget tracking, and cross-functional teams.",Project Manager
+"Scrum master proficient in daily stand-ups, retrospectives, and impediment removal.",Project Manager
+"Forensic accountant experienced in fraud detection, litigation support, and internal audits.",Accountant
+"Tax accountant skilled in IRS regulations, deductions, and software like TurboTax and Lacerte.",Accountant
+"Financial controller proficient in cash flow management, financial statements, and SOX compliance.",Accountant
+"Content strategist with skills in copywriting, SEO content, and audience engagement metrics.",Marketing
+"Email marketing expert experienced in automation tools like Mailchimp, segmentation, and A/B testing.",Marketing
+"Brand manager proficient in market research, positioning strategies, and competitive analysis.",Marketing
+"Compensation analyst skilled in salary benchmarking, equity plans, and HRIS systems.",HR
+"Employee relations specialist experienced in investigations, policy development, and mediation.",HR
+"Training coordinator proficient in LMS platforms, curriculum design, and e-learning modules.",HR
+"Wireless network engineer skilled in Wi-Fi protocols, spectrum analysis, and Cisco Meraki.",Network Engineer
+"Cloud systems administrator experienced in Azure, DevOps practices, and infrastructure as code.",Network Engineer
+"Helpdesk support specialist proficient in ticketing systems like Zendesk, remote troubleshooting, and OS support.",Network Engineer
+"Penetration tester with expertise in Metasploit, Burp Suite, and web application security.",Cybersecurity Analyst
+"Compliance officer skilled in GDPR, HIPAA regulations, and data privacy policies.",Cybersecurity Analyst
+"Incident response analyst experienced in threat hunting, log analysis, and EDR tools like CrowdStrike.",Cybersecurity Analyst
+"Scala developer with experience in Akka actors, functional programming, and big data processing.",Software Engineer
+"Kotlin mobile developer skilled in Android Jetpack, Coroutines, and Firebase integration.",Software Engineer
+"Swift iOS engineer proficient in UIKit, SwiftUI, and app store deployment.",Software Engineer
+"TypeScript developer experienced in NestJS backend, GraphQL APIs, and Prisma ORM.",Software Engineer
+"Svelte frontend developer with skills in reactive programming and component-based architecture.",Web Developer
+"Drupal CMS developer proficient in module development, theming, and site migrations.",Web Developer
+"Shopify developer experienced in liquid templating, app integrations, and e-commerce optimization.",Web Developer
+"Visual designer skilled in color theory, grid systems, and tools like Affinity Designer.",UI/UX Designer
+"Experience designer with focus on AR/VR interfaces, user testing, and immersive prototypes.",UI/UX Designer
+"Logo designer proficient in branding guidelines, vector editing, and client presentations.",UI/UX Designer
+"Statistician data scientist experienced in hypothesis testing, regression models, and SAS software.",Data Scientist
+"NLP specialist skilled in spaCy, BERT models, and sentiment analysis.",Data Scientist
+"Data visualization expert proficient in D3.js, ggplot2, and interactive dashboards.",Data Scientist
+"Financial business analyst experienced in ROI calculations, feasibility studies, and investment analysis.",Business Analyst
+"Operations analyst skilled in supply chain optimization, inventory management, and Lean methodologies.",Business Analyst
+"IT project manager with experience in waterfall methodologies, Gantt charts, and vendor contracts.",Project Manager
+"Construction project manager proficient in scheduling software, site management, and safety compliance.",Project Manager
+"Management accountant experienced in cost-benefit analysis, budgeting tools, and variance reporting.",Accountant
+"Auditor skilled in risk-based auditing, sampling techniques, and IFRS standards.",Accountant
+"Bookkeeper proficient in ledger maintenance, trial balances, and payroll processing.",Accountant
+"PPC specialist with experience in Google Ads, bid strategies, and conversion tracking.",Marketing
+"Influencer marketing coordinator skilled in outreach, contract negotiation, and performance metrics.",Marketing
+"Market research analyst proficient in surveys, focus groups, and qualitative data analysis.",Marketing
+"Labor relations specialist experienced in union negotiations, grievance handling, and arbitration.",HR
+"Benefits administrator skilled in health insurance plans, retirement accounts, and open enrollment.",HR
+"HR business partner proficient in strategic alignment, talent management, and succession planning.",HR
+"VoIP engineer skilled in SIP protocols, PBX systems, and QoS optimization.",Network Engineer
+"Database administrator experienced in Oracle, SQL tuning, and backup strategies.",Network Engineer
+"Desktop support engineer proficient in imaging tools, software deployment, and user training.",Network Engineer
+"Cryptographer with expertise in asymmetric encryption, key management, and blockchain security.",Cybersecurity Analyst
+"Cloud security architect skilled in AWS IAM, Azure Sentinel, and zero-trust models.",Cybersecurity Analyst
+"Malware analyst experienced in reverse engineering, YARA rules, and sandbox environments.",Cybersecurity Analyst
+"Embedded systems engineer with C/C++ experience in microcontrollers, RTOS, and IoT protocols.",Software Engineer
+"DevOps engineer skilled in Terraform, Ansible, and monitoring with Prometheus.",Software Engineer
+"Flutter mobile developer proficient in cross-platform apps, state management with Provider, and animations.",Software Engineer
+"Elixir developer experienced in Phoenix framework, OTP, and real-time web applications.",Software Engineer
+"Next.js developer with skills in server-side rendering, API routes, and Vercel deployment.",Web Developer
+"Joomla developer proficient in extensions, templates, and SEO configurations.",Web Developer
+"Webflow designer experienced in no-code development, CMS integration, and responsive layouts.",Web Developer
+"Service designer skilled in service blueprints, stakeholder mapping, and co-creation workshops.",UI/UX Designer
+"Accessibility specialist with expertise in WCAG guidelines, screen reader testing, and inclusive design.",UI/UX Designer
+"Motion designer proficient in Cinema 4D, 3D modeling, and video editing.",UI/UX Designer
+"Econometrician data scientist experienced in time-series analysis, Stata software, and forecasting models.",Data Scientist
+"Computer vision engineer skilled in YOLO, image segmentation, and edge detection.",Data Scientist
+"Data engineer proficient in Airflow, data warehousing with Snowflake, and ELT pipelines.",Data Scientist
+"Healthcare business analyst experienced in EHR systems, regulatory compliance, and workflow analysis.",Business Analyst
+"Retail business analyst skilled in sales forecasting, inventory analytics, and POS systems.",Business Analyst
+"Software project manager with experience in release planning, defect tracking, and quality assurance.",Project Manager
+"Event project manager proficient in timeline management, budget oversight, and logistics coordination.",Project Manager
+"Investment accountant experienced in portfolio accounting, valuation, and reconciliation.",Accountant
+"Payroll accountant skilled in tax withholdings, garnishment processing, and multi-state compliance.",Accountant
+"Cost accountant proficient in job costing, overhead allocation, and manufacturing accounting.",Accountant
+"Affiliate marketing specialist with experience in partner networks, commission structures, and tracking software.",Marketing
+"Video marketing producer skilled in scriptwriting, editing with Premiere Pro, and YouTube optimization.",Marketing
+"CRM marketing analyst proficient in Salesforce, customer journey mapping, and lead scoring.",Marketing
+"Organizational development specialist experienced in change management, leadership training, and culture assessments.",HR
+"Diversity and inclusion coordinator skilled in bias training, equity audits, and employee resource groups.",HR
+"HR analytics expert proficient in people metrics, turnover analysis, and HR dashboards.",HR
+"Data center engineer skilled in rack management, power distribution, and cooling systems.",Network Engineer
+"Security operations center analyst experienced in alert triage, incident logging, and shift handovers.",Network Engineer
+"Field service engineer proficient in on-site repairs, diagnostic tools, and customer communication.",Network Engineer
+"Web security specialist with skills in OWASP top 10, secure headers, and SSL/TLS configuration.",Cybersecurity Analyst
+"Privacy analyst experienced in data mapping, consent management, and CCPA compliance.",Cybersecurity Analyst
+"Threat intelligence researcher skilled in OSINT, dark web monitoring, and report generation.",Cybersecurity Analyst
+"Rust developer with experience in systems programming, memory safety, and WebAssembly.",Software Engineer
+"Haskell functional programmer skilled in monads, type systems, and pure functional design.",Software Engineer
+"React Native mobile engineer proficient in Expo, offline storage, and push notifications.",Software Engineer
+"GraphQL backend developer experienced in Apollo Server, schema design, and resolvers.",Software Engineer
+"Blazor web developer with skills in C# web assembly, component libraries, and SignalR.",Web Developer
+"Magento e-commerce developer proficient in extensions, theming, and performance tuning.",Web Developer
+"Squarespace designer experienced in custom CSS, integrations, and site optimization.",Web Developer
+"Industrial designer skilled in CAD software like SolidWorks, prototyping, and ergonomics.",UI/UX Designer
+"Packaging designer with expertise in materials, die-cutting, and sustainable design.",UI/UX Designer
+"Typographer proficient in font selection, kerning, and layout harmony.",UI/UX Designer
+"Bioinformatician data scientist experienced in genome sequencing, BLAST tools, and phylogenetic analysis.",Data Scientist
+"Robotics engineer skilled in ROS, sensor fusion, and path planning algorithms.",Data Scientist
+"Geospatial analyst proficient in GIS software, ArcGIS, and spatial data visualization.",Data Scientist
+"Legal business analyst experienced in contract review, compliance tracking, and case management systems.",Business Analyst
+"Energy business analyst skilled in demand forecasting, tariff analysis, and renewable energy projects.",Business Analyst
+"Infrastructure project manager with experience in civil engineering oversight, procurement, and milestones.",Project Manager
+"Marketing project manager proficient in campaign timelines, creative briefs, and agency coordination.",Project Manager
+"Non-profit accountant experienced in grant accounting, donor reporting, and fund accounting.",Accountant
+"Real estate accountant skilled in property management software, lease accounting, and depreciation.",Accountant
+"Government accountant proficient in fund accounting, budget execution, and audit preparation.",Accountant
+"Growth hacker with skills in viral marketing, AARRR metrics, and growth experiments.",Marketing
+"Public relations specialist experienced in press releases, media relations, and crisis communication.",Marketing
+"Product marketing manager proficient in go-to-market strategies, positioning, and customer feedback.",Marketing
+"Workforce planner skilled in headcount forecasting, skill gap analysis, and recruitment pipelines.",HR
+"Employee wellness coordinator experienced in health programs, EAP services, and fitness initiatives.",HR
+"HR compliance specialist proficient in FLSA, ADA accommodations, and audit readiness.",HR
+"Fiber optics engineer skilled in splicing, OTDR testing, and network design.",Network Engineer
+"Telecom engineer experienced in 5G deployment, spectrum management, and base station configuration.",Network Engineer
+"AV technician proficient in audio-visual systems, cabling, and conference room setups.",Network Engineer
+"Forensics investigator with expertise in chain of custody, digital evidence collection, and court testimony.",Cybersecurity Analyst
+"Application security engineer skilled in SAST/DAST tools, code reviews, and secure SDLC.",Cybersecurity Analyst
+"Endpoint security specialist experienced in antivirus management, patch deployment, and MDM solutions.",Cybersecurity Analyst
+"Assembly language programmer with experience in low-level optimization, BIOS development, and hardware interfacing.",Software Engineer
+"Perl scripting expert skilled in text processing, regex, and automation scripts.",Software Engineer
+"Ionic hybrid app developer proficient in Capacitor, Angular integration, and PWA features.",Software Engineer
+"FastAPI backend developer experienced in async programming, Pydantic models, and OAuth security.",Software Engineer
+"Ember.js developer with skills in Ember Data, routing, and component architecture.",Web Developer
+"Wix developer experienced in Velo coding, database collections, and custom elements.",Web Developer
+"Bubble no-code developer proficient in workflows, data types, and API connectors.",Web Developer
+"Fashion designer skilled in pattern making, textile selection, and trend forecasting.",UI/UX Designer
+"Interior designer with expertise in space planning, AutoCAD, and material sourcing.",UI/UX Designer
+"Exhibition designer proficient in booth layouts, lighting design, and experiential elements.",UI/UX Designer
+"Quantum computing researcher experienced in Qiskit, qubit simulation, and algorithm development.",Data Scientist
+"Fraud analyst skilled in anomaly detection, machine learning models, and transaction monitoring.",Data Scientist
+"Climate data scientist proficient in NetCDF, climate modeling, and GIS integration.",Data Scientist
+"Telecom business analyst experienced in billing systems, network optimization, and customer churn analysis.",Business Analyst
+"Manufacturing business analyst skilled in ERP modules, production planning, and quality control metrics.",Business Analyst
+"Research project manager with experience in grant proposals, ethical reviews, and data collection oversight.",Project Manager
+"HR project manager proficient in system implementations, change initiatives, and training rollouts.",Project Manager
+"Chartered accountant experienced in international taxation, transfer pricing, and IFRS conversions.",Accountant
+"Budget analyst skilled in zero-based budgeting, expenditure tracking, and financial modeling.",Accountant
+"Accounts receivable specialist proficient in credit management, collections, and aging reports.",Accountant
+"Event marketer with skills in virtual events, sponsorship acquisition, and attendee engagement.",Marketing
+"SEO copywriter experienced in keyword-optimized content, meta tags, and readability scores.",Marketing
+"Analytics marketer proficient in Google Tag Manager, attribution modeling, and funnel analysis.",Marketing
+"Talent development specialist skilled in career pathing, mentoring programs, and skill assessments.",HR
+"Payroll administrator experienced in timekeeping systems, tax filings, and audit support.",HR
+"HR recruiter proficient in LinkedIn sourcing, resume screening, and interview scheduling.",HR
+"Satellite engineer skilled in orbital mechanics, ground station operations, and payload integration.",Network Engineer
+"Storage engineer experienced in SAN/NAS, data deduplication, and backup software like Veeam.",Network Engineer
+"Network security technician proficient in ACLs, VPN tunnels, and intrusion prevention.",Network Engineer
+"Red team operator with expertise in social engineering simulations, exploit development, and reporting.",Cybersecurity Analyst
+"Blue team defender skilled in log correlation, threat modeling, and security hardening.",Cybersecurity Analyst
+"Cyber risk manager experienced in insurance assessments, control frameworks, and business continuity planning.",Cybersecurity Analyst
