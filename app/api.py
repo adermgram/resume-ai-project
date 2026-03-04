@@ -79,3 +79,13 @@ def predict_resume_pdf(file: UploadFile = File(...)):
 #         "suitability_score": suitability_score,
 #         "top_3_matches": top_3_formatted
 #     }
+
+
+#for render deployment
+#------------------------------------------------------------------------------
+import os
+
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run(app, host="0.0.0.0", port=int(os.environ.get("PORT", 8000)))
+
